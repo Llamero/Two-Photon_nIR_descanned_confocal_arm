@@ -1,4 +1,4 @@
-# Near-infrared descanned detection arm for two-hpton microscope
+# Near-infrared descanned detection arm for two-photon microscope
  This is an open-source addition to a two-photon microscope to perform single photon confocal imaging of near infrared emission.
  
  The development of this scope and illuminator was funded by the following grant: NIH P30EY003176
